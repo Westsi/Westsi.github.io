@@ -1,1 +1,2 @@
-I make minecraft plugins and mods sometimes. Working on WMG rn!
+### I make stuff.
+[Icosa](/icosa)
