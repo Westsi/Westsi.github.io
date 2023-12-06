@@ -6,4 +6,5 @@ Implements
 - Scrolling and text rendering with different fonts.
 - More to come
 
-Check it out on [Github](https://github.com/Westsi/Icosa)
+Check it out on [Github](https://github.com/Westsi/Icosa)<br>
+Look at the [JavaDoc](https://westsi.github.io/Icosa/)
